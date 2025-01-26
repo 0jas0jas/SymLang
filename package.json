@@ -17,6 +17,7 @@
     "handsfree": "^8.5.1",
     "handtrackjs": "^0.1.5",
     "next": "15.1.6",
+    "openai": "^4.80.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
