@@ -121,6 +121,7 @@ const GestureRecognition = () => {
         9. Only return errors in these types: SYNTAX ERROR, RUNTIME ERROR, LOGIC ERROR also tell why the error occured
         10. Return the output when the code is valid. 
         11. The code is valid by default, it's only erronous when the rules are not followed
+        12. Different lines in code does not always need to have newline characters
         `;
 
         const completion = await openai.chat.completions.create({
