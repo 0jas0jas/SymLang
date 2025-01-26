@@ -9,6 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mediapipe/hands": "^0.4.1675469240",
+    "@teachablemachine/image": "^0.8.5",
+    "@tensorflow-models/handpose": "^0.1.0",
+    "@tensorflow/tfjs": "^4.22.0",
+    "fingerpose": "^0.1.0",
+    "handsfree": "^8.5.1",
     "handtrackjs": "^0.1.5",
     "next": "15.1.6",
     "react": "^19.0.0",
