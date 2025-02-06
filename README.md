@@ -15,17 +15,6 @@ Welcome to **sinLang**, the revolutionary programming language designed for indi
 2. **Set Up Your Camera**: Ensure your camera is properly set up to capture your sign language gestures.
 3. **Start Coding**: Begin writing code using your hands!
 
-## Documentation
-
-## Contributing
-We welcome contributions from everyone. Please read our [contributing guidelines](https://example.com/contributing) to get started.
-
-## Community
-Join our community on [Discord](https://example.com/discord) to connect with other users and developers.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for choosing SignLangCode. Let's make coding accessible for everyone!
